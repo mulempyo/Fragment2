@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Fragment application2</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="string_01">List</string>
+    <string name="string_02">Next</string>
+    <string name="string_03">Activity</string>
+    <string name="string_04">Detail</string>
+    <string name="string_05">Back</string>
+</resources>
